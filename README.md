@@ -53,6 +53,7 @@ The dataset contains marketing campaign data with the following columns:
 ## SQL Queries Analysis
 
 All SQL queries used for analysis are available in:
+- **SQL Queries** :[Sql queries solution](Customer-Acquisition-Channel-ROI-Analysis/blob/main/SQL%20queries%20solution.sql)
 
 
 ## Power BI Dashboard
