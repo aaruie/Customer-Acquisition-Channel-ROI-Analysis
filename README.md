@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This project analyzes multi-channel marketing campaign performance to evaluate ROI, CAC, conversion rates, and campaign efficiency.
+This project analyzes multi-channel marketing campaign data to evaluate key metrics such as ROI, CAC, and conversion rates. It identifies high-performing and underperforming campaigns, along with inefficiencies in marketing spend. Using advanced SQL techniques and Tableau visualization, the project delivers actionable insights for optimizing marketing strategy and budget allocation.
 
 
 ## OBJECTIVE
