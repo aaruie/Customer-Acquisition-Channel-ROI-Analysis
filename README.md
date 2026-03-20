@@ -16,12 +16,12 @@ This project analyzes multi-channel marketing campaign performance to evaluate R
 The dataset contains marketing campaign data with the following columns:
 - Dataset : [Marketing Campaign Dataset]
 
-campaign_name
-category (social, search, influencer)
-impressions
-clicks
-leads
-orders
-marketing spend
-revenue
+- campaign_name
+- category (social, search, influencer,)
+- impressions
+- clicks
+- leads
+- orders
+- marketing spend
+- revenue
 
