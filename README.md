@@ -14,7 +14,7 @@ This project analyzes multi-channel marketing campaign data to evaluate key metr
 ## DATASET
 
 The dataset contains marketing campaign data with the following columns:
-- Dataset : [Marketing Campaign Dataset]
+**Dataset** : [Marketing Campaign Dataset](Customer-Acquisition-Channel-ROI-Analysis/blob/main/Marketing%20%20-%20Marketing.csv)
 
 - campaign_id
 - campaign_name
