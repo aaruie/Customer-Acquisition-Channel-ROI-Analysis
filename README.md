@@ -54,3 +54,20 @@ The dataset contains marketing campaign data with the following columns:
 All SQL queries used for analysis are available in:
 
 
+## Power BI Dashboard
+
+👉 (Add Tableau Public link here)
+
+Key visuals include:
+
+- Campaign ROI comparison
+- Spend vs Revenue analysis
+- Funnel drop-off visualization
+- CTR vs Conversion scatter plot
+- Category performance
+
+  ## Key Insights
+
+  ## Recommendation
+
+
