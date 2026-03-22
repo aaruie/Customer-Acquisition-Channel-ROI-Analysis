@@ -58,18 +58,44 @@ All SQL queries used for analysis are available in:
 
 ## Power BI Dashboard
 
-👉 (Add Tableau Public link here)
+👉 [Customer-Acquisition-Channel-ROI-Analysis Power BI Dashboard](https://github.com/aaruie/Customer-Acquisition-Channel-ROI-Analysis/blob/main/Customer%20Acquisition%20Channel%20ROI%20Analysis%20Dashboard.pdf)
 
 Key visuals include:
 
-- Campaign ROI comparison
-- Spend vs Revenue analysis
-- Funnel drop-off visualization
-- CTR vs Conversion scatter plot
-- Category performance
+- KPI Cards: Total Spend, Revenue, Orders, CTR, Conversion Rate, ROI
+- Clicks vs Orders Channel-wise
+- Revenue Contribution by Channel
+- Traffic Distribution 
+- Conversion Rate Comparison
+- Marketing Funnel (Clicks → Leads → Orders)
+- Revenue vs Orders 
+- Campaign Performance Table: ROI, Spend, Revenue, Conversion per campaign
 
-  ## Key Insights
+## Key Insights
 
-  ## Recommendation
+3M clicks generate only 8K orders ~0.27% conversion rate, showing major funnel drop-offs
+Social channels drive ~50% of traffic 1.5M clicks but have lower conversion - 0.20%–0.28%
+Influencer channels generate the highest revenue 21M+ with strong conversion (~0.43%)
+YouTube Blogger campaign delivers highest ROI of 2.77 and best performance
+Several campaigns (Facebook LAL, Google Wide, Instagram Tier2) show negative ROI
+Overall performance is profitable with 42.8M revenue on ~30.5M spend (ROI ~0.40)
+
+
+## Recommendations
+
+Reallocate Budget: Shift spend from low-ROI campaigns to high-performing influencer channels
+Improve Funnel Conversion: Optimize landing pages, targeting, and creatives to reduce drop-offs
+Scale High Performers: Increase investment in YouTube Blogger and retargeting campaigns
+Reduce Inefficient Spend: Pause or optimize campaigns with negative ROI
+Diversify Channels: Reduce over-reliance on social traffic and expand high-converting sources
+A/B Testing: Test creatives, audience segments, and offers to improve conversion rates
+
+
+## Business Impact
+Identified high-performing channels driving 21M+ revenue individually
+Highlighted conversion inefficiencies across funnel (~0.27% CVR)
+Provided actionable insights to improve ROI and optimize marketing spend allocation
+
+
 
 
